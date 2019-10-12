@@ -1,0 +1,78 @@
+<DOCTYPE html>
+<html>
+<head>
+<   link rel="stylesheet" type="text/css" href="http://mactech7.site90.net/css/7.css">
+<link rel="stylesheet" type="text/css" href="http://mactech7.site90.net/css/nav.css">
+<link rel="stylesheet" type="text/css" href="http://mactech6.site90.com/css/6.css">
+<script src="jscript/js1.js"></script>
+</head>
+<body>
+<div class="dropdown">
+  <button class="dropbtn" onclick="openNav()">&#9776;</button>
+  <div class="dropdown-content">
+  	<a href="http://mactech7.site90.net">Mactech7</a>
+  	<a href="http://mactech6.site90.com">Mactech6</a>
+  	<a href="http://mactech5.jetos.com">Mactech5</a>
+  	<a href="http://mactech6.site90.com/boxes/">Mactech6</a>
+  	<a href='hp1.html'>new home page</a>
+    <a href="http://mactech6.site90.com/hampton/index.htm">pictures</a>
+    <a href="http://mactech6.site90.com/flyer.html">flyer</a>
+    <a href="http://mactech6.site90.com/resume1.htm">Got a Job for me?</a>
+  	<a href="http://mactech6.site90.com/athome.htm">Not working</a>
+  	<a href="http://mactech6.site90.com/php/p.php">p</a>
+  	<a href="http://mactech6.wordpress.com">The Mactech Blog</a>
+  </div>
+</div>
+<section id="banner">
+	<a href="https://www.000webhost.com/" onClick="this.href='https://www.000webhost.com/944197.html'"  target="_blank">
+		<img src="https://www.000webhost.com/images/banners/468x60/banner6.gif" alt="Web hosting" width="468" height="60" border="0" />
+	</a>
+</section>
+<div class="box1">
+	<p>Projects that are 
+		<span>
+			<button type="button">
+				<a href="http://mactech6.site90.com/cs50/">Under Construction</a>
+			</button>
+			<button type="button">
+				<a href="http://mactech6.site90.com/index1.html">under construction</a>
+			</button>
+			<button type="button" onclick="hw()">Hey</button>
+	</div>		
+
+<button onclick="myTod()">Try it!!!</button>
+
+
+		</span>
+	</p>
+<p id="hw"></p>
+<span>
+<p>Click the button to get a time-based greeting:</p>
+<p id="tod"></p>
+</span>
+<div id="name">
+	<h1 >
+		<a href="mailto:fhampton6@gmail.com">
+  			<strong>Information Technology Consultant Services</strong>
+  		</a>
+  	</h1>
+</div>
+<footer>
+	<div>
+	<ul>
+  <li><a href="http://mactech7.site90.net">Mactech7</a></li>
+  <li class="active"><a href="index.html">Mactech6</a></li>
+  <li><a href="http://mactech5.jetos.com/">Mactech5</a></li>
+  <li><a href="hampton/index.htm">pictures</a></li>
+  <li><a href="index1.html">pictures 2</a></li>
+   <li><a href="flyer.html">flyer</a></li>
+  <li><a href="resume1.htm">Got a Job for me?</a></li>
+  <li><a href="athome.htm">Not working</a></li>
+  <li><a href="http://mactech6.wordpress.com">The Mactech Blog</a></li>
+  <li><a href="mailto:fhampton6@gmail.com">Contact me</a></li>
+</ul>
+</div>
+</footer>
+</body>
+
+</html>
